@@ -1,0 +1,9 @@
+ls
+
+quit
+save
+k
+
+EOF
+>EOF
+ls
